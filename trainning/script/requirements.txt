@@ -1,0 +1,2 @@
+mlflow==2.21.3
+protobuf==3.20.3
